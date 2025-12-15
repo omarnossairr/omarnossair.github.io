@@ -1,9 +1,3 @@
----
-layout: home
-title: Omar Nossair — Science Blog
-description: Breaking down complex topics in biology and medicine through evidence-based writing.
----
-
 # Welcome to My Science Blog
 
 Hello! I’m **Omar Nossair**, a university student passionate about **biology, medicine, and research**.  
@@ -22,19 +16,13 @@ This blog shares **evidence-based explanations, summaries, and discussions** on 
 
 ### AI in Medicine
 **[Read Post →](_posts/2025-12-15-ai-in-medicine.md)**  
-Explore the role of Artificial Intelligence in medicine, from diagnostics to research applications.  
-<iframe src="/AI In Medicine Research Paper.pdf" width="100%" height="300px">
-    Your browser does not support PDFs. You can <a href="/AI In Medicine Research Paper.pdf">download the PDF</a> to view it.
-</iframe>
+Explore the role of Artificial Intelligence in medicine, from diagnostics to research applications.
 
 ---
 
 ### Hypertrophy Research
 **[Read Post →](_posts/2025-12-15-hypertrophy-research.md)**  
 A review of recent studies on muscle hypertrophy, training protocols, and biological mechanisms.  
-<iframe src="/Hypertrophy Research Paper.pdf" width="100%" height="300px">
-    Your browser does not support PDFs. You can <a href="/Hypertrophy Research Paper.pdf">download the PDF</a> to view it.
-</iframe>
 
 ---
 
